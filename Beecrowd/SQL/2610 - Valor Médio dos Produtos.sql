@@ -1,0 +1,1 @@
+SELECT trunc(AVG(price), 2) AS price FROM products
